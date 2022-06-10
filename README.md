@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IforeignI
 - 👀 I’m interested in learning about technology and programming.
-- 🌱 I’m currently learning C, HTML, Computer basics.
+- 🌱 I’m currently learning C++, Python, Computer basics.
 - 💞️ I’m looking to collaborate on any beginner projects/workshops/learning experiences.
 
 <!---
